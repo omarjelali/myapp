@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>sys_connection</connection_type>
+        <id>x_1442005_my_app.test</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>test</name>
+        <parent/>
+        <retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 12:43:52</sys_created_on>
+        <sys_id>62db819e97b0121009af7e70f053aff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1442005_my_app.test</sys_name>
+        <sys_package display_value="My app" source="x_1442005_my_app">95144dd29770121009af7e70f053af5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My app">95144dd29770121009af7e70f053af5d</sys_scope>
+        <sys_update_name>sys_alias_62db819e97b0121009af7e70f053aff6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 12:43:52</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
