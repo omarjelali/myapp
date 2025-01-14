@@ -2,5 +2,6 @@
     <element audit="true" db_object_id="e1144dd29770121009af7e70f053afa9" extends="sn_creatorstudio_task" label="My app Request" max_length="40" name="x_1442005_my_app_request" type="collection">
         <element label="test" max_length="40" name="test" type="string"/>
         <element label="testapplychange" max_length="100" name="testapplychange" type="string"/>
+        <element label="testapplychange2stash" max_length="40" name="testapplychange2stash" type="string"/>
     </element>
 </database>
